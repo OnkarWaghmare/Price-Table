@@ -1,0 +1,74 @@
+#container{
+    margin: 10% auto;
+    width: 720px;    
+}
+.child01{
+    display: flex;
+}
+#img02{
+    position: absolute;
+    left: 24.40%;
+    bottom: -34%;
+
+}
+
+.rightColumn{
+    position: absolute;
+    right: 160px;
+    top: 125px;
+    height: 110vh;
+    width: 20vh;
+
+}
+#heading01{
+
+    width: 128px;
+    height:140px;
+}
+.rcItem{
+    height: 59px;
+    border: 1px solid #808080;
+    color: #808080;
+}
+.bottomRow{
+    position: absolute;
+    left: 26%;
+    bottom: -44%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+#heading02{
+    width: 201px;
+    height: 60px;
+    justify-content: baseline;
+    font-size: 15px;
+}
+.brItem{
+    margin: 1%;
+    width: 97px;
+    height: 60px;
+    text-align: center;
+    justify-content: center;
+    border: 1px solid #808080;
+    color: #808080;
+}
+input{
+    width: 35px;
+    height: 15px;
+}
+#customText{
+    padding: 2%;
+}
+button{
+    margin: 2%;
+    padding: 2%;
+    background-color: teal;
+    border: transparent;
+    border-radius: 5%;
+}
+select{
+    margin: 2%;
+}
